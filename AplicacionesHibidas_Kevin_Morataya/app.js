@@ -1,0 +1,1 @@
+document.write('Texto con JavaScrip')
